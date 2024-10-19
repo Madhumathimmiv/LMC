@@ -12,3 +12,4 @@ DISP    LDA TOTAL
         OUT
 N       DAT
 ONE     DAT 1
+TOTAL  DAT

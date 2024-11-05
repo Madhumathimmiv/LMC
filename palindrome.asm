@@ -1,4 +1,5 @@
-            INP 
+//Palindrome checker (Output 1 if the number is a palindrome, else output 0)
+INP 
         STA A
         STA NUM
 REVERSE LDA A
